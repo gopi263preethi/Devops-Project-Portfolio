@@ -2,6 +2,25 @@
 This repository describes about all my devops(kubernetes,Docker,AWS,Shell Scripting) projects for referencing.
 Project portfolio of Kubernetes, Docker,  AWS (with Terraform)
 
+
+
+
+
+
+
+** Kubernetes Project 
+** AWS Infrastructure Provisioning with Terraform
+** Docker (containerizing web applications building shipping running images)
+
+
+
+
+
+
+
+
+
+
 End To End Kubernetes Project:
 Step1:
 Creating kubernetes cluster (k3s kubernetes cluster) in Linux machine. I have created single node kube cluster as I have used for development and implementing small projects.
@@ -100,7 +119,7 @@ Kubernetes Cluster Logs:
 
 
 
-    
+
 
 
 
