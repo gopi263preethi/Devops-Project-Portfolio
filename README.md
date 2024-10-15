@@ -65,6 +65,45 @@ Kubernetes Cluster Logs:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
 AWS Infrastructure Provisioning using Terraform(IaC) *** Infrastructure as ac Code ***************
 
 
