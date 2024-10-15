@@ -54,20 +54,21 @@ Project portfolio of Kubernetes, Docker,  AWS (with Terraform)
 
 
 
-End To End Kubernetes Project:
-Step1:
+#### End To End Kubernetes Project:
+
+##### Step1:
 Creating kubernetes cluster (k3s kubernetes cluster) in Linux machine. I have created single node kube cluster as I have used for development and implementing small projects.
 Step2: 
 Creating name space in kubernetes for deploying all the resources in the that namespace
 
 ![alt text](image.png)
 
-Step3
+####  Step3
 I have created a monitoring namespace as I have deployed all the projects in the default namespace and some of the pods and deployments and services 
 
 ![alt text](image-1.png)
 
-Step4:
+##### Step4:
 Im monitoring my Kubernetes cluster using prometheus and Grafana and using Prometheus as data source for the Grafana and I have created several dashbords based on pods, namespaces, cluster health, pod cpu and memory usage.
 
 ![alt text](image-2.png)
@@ -81,12 +82,12 @@ Im monitoring my Kubernetes cluster using prometheus and Grafana and using Prome
 •	Kubernetes Cluster monitoring via Prometheus is used to extract total pod count and running pod heath status and checks and total  namespaces.
 
 
-•	Kubernetes/Views/Namespaces Dashboard
+######### •	Kubernetes/Views/Namespaces Dashboard
 
 ![alt text](image-3.png)
 
 
-Kubernetes/Views/Nodes  Dashboard
+#########   Kubernetes/Views/Nodes  Dashboard
 
 ![alt text](image-4.png)
 
@@ -156,7 +157,7 @@ Kubernetes Cluster Logs:
 
 
 
-AWS Infrastructure Provisioning using Terraform(IaC) *** Infrastructure as ac Code ***************
+####################  AWS Infrastructure Provisioning using Terraform(IaC) *** Infrastructure as ac Code ***************
 
 
 Terrafrom Project(End to End Project) 
