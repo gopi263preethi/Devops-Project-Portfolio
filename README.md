@@ -53,6 +53,20 @@ Kubernetes Cluster Logs:
 
 
 
+####################################Kubernetes Project is completed right from cluster creation pods, services, deployments, ingresses and configmaps, secrets and monitoring of all the resources are completed.#############################
+
+
+
+
+
+
+
+
+
+
+
+AWS Infrastructure Provisioning using Terraform(IaC) *** Infrastructure as ac Code ***************
+
 
 Terrafrom Project(End to End Project) 
 I have deployed multi availability zone tech stack for my webserver this provides high availability and fault tolearant and secure as I have implemented in VPC.
