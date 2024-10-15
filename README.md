@@ -8,8 +8,18 @@ Project portfolio of Kubernetes, Docker,  AWS (with Terraform)
 
 
 
-** Kubernetes Project 
+** Kubernetes Project   
+
+
+
 ** AWS Infrastructure Provisioning with Terraform
+
+
+
+
+
+
+
 ** Docker (containerizing web applications building shipping running images)
 
 
