@@ -28,6 +28,29 @@ Project portfolio of Kubernetes, Docker,  AWS (with Terraform)
 
 
 
+###### Kubenetes Project( Cluster cration, resources deployment, monitoring of the resources)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
