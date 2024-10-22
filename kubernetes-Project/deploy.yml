@@ -1,0 +1,11 @@
+apiVersion: V1
+kind: Deployment
+metadata: 
+  name: my-deployment-gopi
+  labels: 
+    app: my-deploy
+spec: 
+ - containers: 
+     image: gopinadh789/java-app
+     containerPorts: 
+         port: 8080 
